@@ -1,0 +1,24 @@
+/* src/assets/styles.css */
+
+.v-main {
+    background-color: #cecece;
+}
+
+.v-sheet {
+    background-color: #cecece;
+}
+
+body {
+    background-color: #cecece;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 1rem;
+}
